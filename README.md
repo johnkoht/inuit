@@ -16,7 +16,7 @@ And then execute:
 
 Add a require in your application.css. It's that simple!
 
-Using the current version of inuit.css (v5.1).
+Using the current version of inuit.css (v5.0.1).
 
 ```
 /*
